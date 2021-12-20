@@ -62,9 +62,8 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
-
-
+![gaussian elimination](SS1.png)
+![gaussian](SS2.png)
 ## Result:
 Thus the program to find the Gaussian Elimination with partial pivoting of a matrix is written and verified using python programming.
 
